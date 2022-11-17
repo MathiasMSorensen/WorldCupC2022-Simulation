@@ -1,5 +1,7 @@
 # WC2022-Simulation
 
+Inspired a lot by https://github.com/eightyfivepoints/World-Cup-Simulations. 
+
 Go to tournament_simulation.ipynb to simulate. 
 
 Method:
@@ -8,3 +10,4 @@ Method:
  - for each playoff game, initial change of winning the tournament has been used, together with an esimtated approximation for the probabiliy of draw (depending on the level of winner certainty). If game ended draw, penalty shootout is assumed to be 50/50.
 
  Have fun simulating the world cup! 
+
